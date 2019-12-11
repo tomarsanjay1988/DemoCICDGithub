@@ -1,0 +1,3 @@
+﻿1>------ Build started: Project: CICDDemoApplication, Configuration: Debug Any CPU ------
+1>  CICDDemoApplication -> C:\Users\52020623\SanjayTomar\Study\AZURE\GITVSTS\DemoVstsAppCICD\CICDDemoApplication\bin\CICDDemoApplication.dll
+========== Build: 1 succeeded, 0 failed, 0 up-to-date, 0 skipped ==========
